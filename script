@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "hello world...."
 os=$(cat /etc/lsb-release)
+echo $0s
